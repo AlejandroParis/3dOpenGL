@@ -1,0 +1,28 @@
+﻿  Application.cpp
+  Color.cpp
+  glmath.cpp
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(72): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(600): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(618): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(758): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\glmath.cpp(778): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Light.cpp
+  log.cpp
+  Main.cpp
+  ModuleAudio.cpp
+  ModuleCamera3D.cpp
+c:\users\alejandropg6\documents\github\3dopengl\physics3d_class1_handout\modulecamera3d.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ModuleInput.cpp
+  ModuleRenderer3D.cpp
+  ModuleSceneIntro.cpp
+  ModuleWindow.cpp
+  Primitive.cpp
+  Timer.cpp
+  Generating Code...
+  3D Physics.vcxproj -> C:\Users\alejandropg6\Documents\GitHub\3dOpenGL\Physics3D_class1_handout\Debug\3D Physics - class1 Handout.exe
